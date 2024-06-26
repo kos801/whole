@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Cause form energy rate manager treatment.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
