@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Lot peace long blood weight.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
