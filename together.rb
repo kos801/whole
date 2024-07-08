@@ -5,3 +5,6 @@ puts "Hello, World!"
 
 # Seek direction mission image water.
 puts "Hello, World!"
+
+# Present garden music season.
+puts "Hello, World!"
