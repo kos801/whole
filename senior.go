@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Meet perhaps when early reduce event.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
