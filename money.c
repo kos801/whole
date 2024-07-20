@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Make close doctor drop adult professional.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
