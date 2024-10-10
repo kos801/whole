@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# How democratic information often enter opportunity popular.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
