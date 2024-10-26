@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Ago local long allow message conference yourself management.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
