@@ -5,3 +5,6 @@ puts "Hello, World!"
 
 # Sense he focus.
 puts "Hello, World!"
+
+# Mention cultural hour we.
+puts "Hello, World!"
