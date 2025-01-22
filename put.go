@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Political buy establish hair.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
