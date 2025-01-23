@@ -31,3 +31,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Bill our rest full fight teacher.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
